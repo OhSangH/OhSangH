@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Chanwoo%20Kim!&fontAlign=50&fontAlignY=40&color=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=SangHyeon%20Oh!&fontAlign=50&fontAlignY=40&color=gradient" />
 
   ### 풀스택 지향 개발자 지망생
   
@@ -10,7 +10,7 @@
   <br/>
   
   <p>
-    <a href="mailto:rlacksdn1223@naver.com">
+    <a href="mailto:dhtkdgus126@gmial.com">
       <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
     </a>
     <a href="https://velog.io/@cksdn1223/series">
@@ -81,22 +81,6 @@
 <details>
   <summary><h3>🧾 Project 2 – StudyHub (스터디 매칭 웹 서비스)</h3></summary>
   <br/>
-  
-  > 사용자의 위치와 관심 기술을 기반으로 스터디를 매칭하고, 실시간 소통·알림을 제공하는 스터디 플랫폼
-
-- **기간**: 2025-11-25 ~ 진행 중 (1인)  
-- **주요 기능**
-  - 위치·기술 태그 기반 스터디 등록 및 검색
-  - 스터디 참여/관리(신청, 수락/거절), 프로필/관심 기술 관리
-  - 실시간 채팅 및 인앱 알림, 브라우저 푸시 알림
-- **기술 스택**
-  - FE: `React`, `TypeScript`, `TanStack Query`, `React Router`, `Tailwind CSS`
-  - BE: `Java`, `Spring Boot`, `Spring Security`, `Spring Data JPA`, `QueryDSL`
-  - DB: `PostgreSQL` + `PostGIS`
-  - 통신: `WebSocket`, `Web Push Notification`
-  - 배포: `Docker`, `GCP` (예정/구축 중)
-- 링크: [깃허브 링크](https://github.com/cksdn1223/StudyHub)
-</details>
 
 ---
 ## 📊 GitHub Stats

@@ -16,9 +16,6 @@
     <a href="YOUR_BLOG_URL">
       <img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
     </a>
-    <a href="YOUR_PORTFOLIO_URL">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
-    </a>
   </p>
 
   ## 💻 Tech Stack
@@ -83,7 +80,7 @@
   - Infra: `Docker` `Nginx` `GCP VM` `GitHub Actions`
 - **Troubleshooting**
   - 502 Bad Gateway, CORS, 컨테이너 네트워크/포트 충돌, JPA 연관관계 직렬화 문제 등 운영 이슈를 해결하며 안정화
-- 링크: [Repository](REPO_URL) · [Service](SERVICE_URL)
+- 링크: [Repository]([REPO_URL](https://github.com/Team-OMIJA)) · [Service]([SERVICE_URL](https://omijoy.kro.kr/))
 
 </details>
 

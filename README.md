@@ -80,7 +80,7 @@
   - Infra: `Docker` `Nginx` `GCP VM` `GitHub Actions`
 - **Troubleshooting**
   - 502 Bad Gateway, CORS, 컨테이너 네트워크/포트 충돌, JPA 연관관계 직렬화 문제 등 운영 이슈를 해결하며 안정화
-- 링크: [Repository]([REPO_URL](https://github.com/Team-OMIJA)) · [Service]([SERVICE_URL](https://omijoy.kro.kr/))
+- 링크: [Repository](https://github.com/Team-OMIJA) · [Service](https://omijoy.kro.kr/)
 
 </details>
 

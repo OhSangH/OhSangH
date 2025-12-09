@@ -61,7 +61,7 @@
 ## 🛠 Projects
 
 <details>
-  <summary><h3>🎫 OMIJOY (공연 탐색 · 티켓/공연 정보 플랫폼)</h3></summary>
+  <summary>🎫 OMIJOY (공연 탐색 · 티켓/공연 정보 플랫폼)</summary>
   <br/>
 
   > KOPIS(Open API) 기반 공연 데이터를 수집/가공하여, 공연 탐색·상세·공연장 지도·개인화 기능을 제공하는 플랫폼

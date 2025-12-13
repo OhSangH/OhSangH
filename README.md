@@ -101,6 +101,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OhSangH&show_icons=true&theme=radical" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhSangH&layout=compact&theme=radical" />
 </div>

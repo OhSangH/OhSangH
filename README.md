@@ -91,9 +91,7 @@
 ## 📌 What I'm Working On
 
 - ✅ Spring Security 인증/인가 흐름 정리 (JWT + OAuth2)
-- ✅ Docker Compose 기반 로컬/운영 환경 분리
-- ✅ CI/CD로 빌드/배포 자동화 (프론트/백 빌드 & 배포)
-- ⏳ 성능 개선: N+1 / 인덱스 / 캐시(Redis) 적용 실험
+- ⏳ 성능 개선: N+1 / 인덱스 / 캐시(Redis) 확인
 
 ---
 

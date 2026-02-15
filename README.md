@@ -10,10 +10,10 @@
   <br/>
   
   <p>
-    <a href="mailto:YOUR_EMAIL">
+    <a href="mailto:dhtkdgus126@naver.com">
       <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
     </a>
-    <a href="YOUR_BLOG_URL">
+    <a href="https://osh126.tistory.com/">
       <img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
     </a>
   </p>

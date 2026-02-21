@@ -90,8 +90,9 @@
 
 ## 📌 What I'm Working On
 
-- ✅ Spring Security 인증/인가 흐름 정리 (JWT + OAuth2)
 - ⏳ 성능 개선: N+1 / 인덱스 / 캐시(Redis) 확인
+- ⏳ RTMP를 이용한 라이브 스트리밍 서비스 구축 ( OBS를 이용한 스트리밍)
+- ⏳ 개인 리눅스 배포환경 구축 후 Cloud Flare를 이용한 배포
 
 ---
 
